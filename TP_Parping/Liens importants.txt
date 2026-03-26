@@ -1,0 +1,8 @@
+Lien pour le TP NLP:
+https://mee-labs.gitlab-pages.imt-atlantique.fr/parping/nlp/
+
+Lien pour le TP TLP:
+https://mee-labs.gitlab-pages.imt-atlantique.fr/parping/tlp/
+
+Site qui parle de CUDA:
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#compute-capabilities
